@@ -1,1 +1,2 @@
 master = "MAs"
+print(master)
