@@ -1,2 +1,0 @@
-master = "MAs"
-print(master)
